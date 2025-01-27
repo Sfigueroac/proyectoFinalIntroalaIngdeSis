@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Ruta del archivo de inventario
-inventario_path = "/Users/santi/Documents/Universidad/Primer Semestre ICESI/Introducción a la Ingeniería de Sistemas/Python/inventario.xlsx"
+inventario_path = "inventario.xlsx"
 
 def actualizar_inventario_pandas(pedido):
     """
